@@ -62,9 +62,12 @@
 
 17. it will print out "how are you?". because in the first comparison, true is converted to 1, and 2 is not equal 1. Next comparison 2 is same as ture in Boolean, so it will print out the message: how are you?
 
+18. part1-question18.js
 
- 19.  it will print out [6, 8, 10].
+19.  it will print out [6, 8, 10].
+
       array = [1, 2, 3].
+      
       for array[0] = 1: 
         it changes to 3 when we do the function(array[0]) = function(1) = 1 + 2 = 3
         and when push it to the newArr, it will be 3 * 2 = 6.
@@ -76,6 +79,7 @@
       for array[2] = 3: 
         it changes to 5 when we do the function(array[0]) = function(1) = 3 + 2 = 5
         and when push it to the newArr, it will be 5 * 2 = 10.
+
+20. part1-question20.js
       
-      
- 21. it will print out 1 4 3 2.
+21. it will print out 1 4 3 2.
