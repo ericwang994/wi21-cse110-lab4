@@ -29,20 +29,34 @@
   E. student.courseLoad[0]
   
 14. A. '32', because '3' is type of string so 2 is converted to string '2' . 
+
     B. 1, because string doesn't have substraction, so '3' is converted to number 3.
+    
     C. 3, 3 + null = 3 + 0 = 3.
+    
     D. '3null', '3' + null = '3null' because null is converted to the type of string
+    
     E. 4, true + 3 = 1 + 3 = 4.
+    
     F. 0, false + null = 0 + 0 = 0.
+    
     G. '3undefined', undefined is converted to string.
+    
     H. NaN, NaN is same as undefined in JS.
     
+    
 15. A. true, JS converted '2' as number 2, and 2 > 1.
+
     B. false, '2' is greater than '1' in string comparison.
+    
     C. true, JS converted '2' as number 2, and 2 == 2.
+    
     D. false, === chech both variables type, and they are different.
+    
     E. false, true == 1 != 2.
+    
     F. true, because Boolean(2) will return true.
+    
     
 16. == in JavaScript is used for comparing two variables, but it ignores the datatype of variable. === is used for comparing two variables, but this operator also checks datatype and compares two values.
 
