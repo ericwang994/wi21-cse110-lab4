@@ -25,6 +25,7 @@ I have changed the type of num1 and num2 as let result = parseInt(num1) + parseI
 9. Request call stack: 
 
       fetchData @ part2.js:2
+      
       onclick @ (index):21
 
   
